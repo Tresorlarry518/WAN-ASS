@@ -1,6 +1,3 @@
-Got it 👍
-Here’s a GitHub-ready description you can paste directly into your repository README. It’s concise, professional, and suitable for coursework.
-
 WAN Simulation Assignment (NS-3)
 
 This repository contains solutions for a Wide Area Networks (WAN) assignment implemented using the NS-3 network simulator. The project explores the design, configuration, and analysis of enterprise-scale WANs with an emphasis on reliability, performance, security, and scalability.
